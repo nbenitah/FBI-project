@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const clearSearchButton = document.getElementById('clear-search');
     let allPersons = [];
     // Set your default API endpoint here
-    const apiUrl = 'https://api.fbi.gov/@wanted/v1/list';
+    const apiUrl = 'https://api.fbi.gov/wanted/v1/list';
     // Removed invalid https://api.fbi.gov/@wantedmy endpoint (not used)
 
     async function fetchWantedList() {
