@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "uid": "1",
+      "title": "John Doe",
+      "description": "Suspected of multiple bank robberies.",
+      "images": [
+        { "original": "https://via.placeholder.com/150/0000FF/808080?text=John+Doe" }
+      ],
+      "details": "Last seen in New York.",
+      "aliases": ["JD", "Johnny"],
+      "remarks": "Considered armed and dangerous.",
+      "reward_text": "$10,000 reward for information.",
+      "url": "https://www.fbi.gov/wanted/john-doe"
+    },
+    {
+      "uid": "2",
+      "title": "Jane Smith",
+      "description": "Wanted for cyber crimes.",
+      "images": [
+        { "original": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Jane+Smith" }
+      ],
+      "details": "Known to use multiple aliases.",
+      "aliases": ["JS", "Janey"],
+      "remarks": "Expert in computer hacking.",
+      "reward_text": "$5,000 reward for information.",
+      "url": "https://www.fbi.gov/wanted/jane-smith"
+    }
+  ]
+}
